@@ -1,0 +1,1 @@
+console.log("Gopika's Portfolio Loaded Successfully!");
