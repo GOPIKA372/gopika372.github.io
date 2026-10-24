@@ -694,3 +694,35 @@ footer {
     }
 
 }
+
+/* GitHub Contribution Snake */
+
+#github-contributions {
+    text-align: center;
+}
+
+#github-contributions p {
+    line-height: 1.8;
+}
+
+.snake-container {
+    width: 100%;
+    max-width: 950px;
+    margin: 25px auto;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.snake-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+#github-contributions a {
+    text-decoration: none;
+}
+
+#github-contributions a:hover {
+    text-decoration: underline;
+}
